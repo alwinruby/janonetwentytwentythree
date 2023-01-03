@@ -13,4 +13,11 @@
 
     * React only changes what needs to be changed!
 
-    * Created React App
+    * Created React App - npx create-react-app@latest jan-app
+
+
+#### Day 3
+
+    * Changed React App
+
+    
