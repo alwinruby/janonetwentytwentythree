@@ -1,9 +1,15 @@
-function App() {
-  return (
-    <div className="App">
-      <h1>It's January 2023!</h1>
-    </div>
-  );
+// App.js
+
+import React, { Component } from 'react';
+
+class App extends Component {
+  render() {
+    return (
+      <div>
+        Changed the App.js
+      </div>
+    );
+  }
 }
 
 export default App;
