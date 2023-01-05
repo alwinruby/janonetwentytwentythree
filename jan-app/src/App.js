@@ -6,7 +6,7 @@ class App extends Component {
   render() {
     return (
       <div>
-        Changed the App.js
+        <b>Changed the App.js</b>
       </div>
     );
   }
